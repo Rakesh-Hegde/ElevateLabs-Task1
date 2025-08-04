@@ -1,0 +1,1 @@
+Simple Arithmetic Calculator that performs addition, subtraction, multiplication, division operartions with appropriate error handling and gives the result to the user. 
